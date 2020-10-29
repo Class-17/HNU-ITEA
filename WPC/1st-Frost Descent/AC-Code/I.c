@@ -1,9 +1,7 @@
 #include <stdio.h>
-// define n as the maximum number of the prime
-#define N 50
 int main()
 {
-    int n, num[N];
+    int n;
     // input the number of prime to sum up
     scanf("%d", &n);
     int temp = 2, flag = 1, sum = 0;
