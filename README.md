@@ -12,6 +12,9 @@
 
 ---
 
+## New Update (最新更新)
+- 第二周周赛赛前参考文档已上传([点击跳转文档][2ndPreview])
+
 ## 10.27 一周目更新完成
 
 - 更新了周赛介绍文档，新增第四条‘周赛题集’ ([点击跳转文档][IntroWPC])
@@ -28,7 +31,7 @@
 
 
 
-
+[2ndPreview]: https://github.com/Class-17/HNU-ITEA/blob/master/WPC/2nd-Halloween/Preview.md
 
 
 [IntroWPC]: https://github.com/Class-17/HNU-ITEA/blob/master/Introduction%20to%20WPC.md
