@@ -8,28 +8,44 @@
 
 --- 
 
-# Update Log (更新日志)
+# Update Logs (更新日志)
 
 ---
 
-## New Update (最新更新)
-- 第二周周赛赛前参考文档已上传([点击跳转文档][2ndPreview])
+## 11.2 第二周更新完成
 
-## 10.27 一周目更新完成
+- 推荐了**PTA平台**等，并上传了其'**基础编程题目集**'的 [AC-Code][BasicProgramming]  
+  上传文档 '[PTA & OJ][PTA&OJ]' 介绍 **PTA** 及 “**基础编程题目集**” 的使用。
 
-- 更新了周赛介绍文档，新增第四条‘周赛题集’ ([点击跳转文档][IntroWPC])
+- [第二次周赛AC 代码][2ndAC-Code]
+ 
+- [第二次周赛赛前参考文档][2ndPreview]
+
+
+---
+
+## 10.27 第一周更新完成
+
+- 更新了'[周赛介绍][IntroWPC]'文档，新增第四条“**周赛题集**”
   
 - 上传了第一次培训相关文档:  
   [Using Windows Elegantly][UWE]  
   [Code Starting][CodeS]
-
-- [第一次周赛参考文档][1stPreview]
   
-- [第一次周赛 AC 代码][1stACcode]
+- [第一次周赛 AC 代码][1stAC-Code]
+
+- [第一次周赛赛前参考文档][1stPreview]
 
 
 
 
+
+
+[PTA&OJ]: https://github.com/Class-17/HNU-ITEA/blob/master/Document/PTA%26OJ.pdf
+
+[BasicProgramming]: https://github.com/Class-17/HNU-ITEA/tree/master/Basic_Programming
+
+[2ndAC-Code]: https://github.com/Class-17/HNU-ITEA/tree/master/WPC/2nd-Halloween/AC-Code
 
 [2ndPreview]: https://github.com/Class-17/HNU-ITEA/blob/master/WPC/2nd-Halloween/Preview.md
 
@@ -40,6 +56,8 @@
 
 [CodeS]: https://github.com/Class-17/HNU-ITEA/blob/master/WPC/1st-Frost%20Descent/Training/Code%20Starting.md
 
+
+[1stAC-Code]: https://github.com/Class-17/HNU-ITEA/tree/master/WPC/1st-Frost%20Descent/AC-Code
+
 [1stPreview]: https://github.com/Class-17/HNU-ITEA/blob/master/WPC/1st-Frost%20Descent/Preview.md
 
-[1stACcode]: https://github.com/Class-17/HNU-ITEA/tree/master/WPC/1st-Frost%20Descent/AC-Code
