@@ -12,6 +12,11 @@
 
 ---
 
+## 11.15 第四周更新完成
+
+- [第三次周赛AC 代码][3rdAC-Code]
+- [第四次周赛AC 代码][4thAC-Code]
+
 ## 11.2 第二周更新完成
 
 - 推荐了**PTA平台**等，并上传了其'**基础编程题目集**'的 [AC-Code][BasicProgramming]  
@@ -39,6 +44,9 @@
 
 
 
+[3rdAC-Code]:https://github.com/Class-17/HNU-ITEA/tree/master/WPC/3rd-Start%20of%20Winter/AC-Code
+
+[4thAC-Code]:https://github.com/Class-17/HNU-ITEA/tree/master/WPC/4th/AC-Code
 
 
 [PTA&OJ]: https://github.com/Class-17/HNU-ITEA/blob/master/Document/PTA%26OJ.pdf
