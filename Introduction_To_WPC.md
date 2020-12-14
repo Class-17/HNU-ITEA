@@ -1,14 +1,15 @@
-# <center> I T E A  -  W P C </center>
+# I T E A  -  W P C
 
 <!-- ![](ITEA.jpg ) -->
 <div align = center>
 <img src = "/src/ITEA.jpg"  width = "400"  height = "400" />
 </div>
 
-#### <center> Internet Technology Enthusiasts Association </center>
-#### <center> Weekly Programming Contest </center>
+#### Internet Technology Enthusiasts Association
 
-#### <center> IT爱好者协会 - 程序设计周赛 </center>
+#### Weekly Programming Contest
+
+#### IT爱好者协会 - 程序设计周赛
 
 ---
 
@@ -33,7 +34,7 @@ IT爱好者协会-程序设计周赛是由IT爱好者协会程序设计部负责
   |     1st     |  All Members (全体会员)   |
   |     2nd     |  Only PD (仅程序设计部)   |
   |     3rd     | Only Secretaries (全体干事) |
-  |     4rd     |  Only PD (仅程序设计部)   |
+  |     4th     |  Only PD (仅程序设计部)   |
 
 
 ---
@@ -70,7 +71,7 @@ IT爱好者协会-程序设计周赛是由IT爱好者协会程序设计部负责
 
 ---
 
-- **IOI（赛制）**： 选手可在比赛中查看自己当前题目所得分数及当前比赛榜单。  
+- **IOI/ACM（赛制）**： 选手可在比赛中查看自己当前题目所得分数及当前比赛榜单。  
 
 ---
 
@@ -84,3 +85,8 @@ IT爱好者协会-程序设计周赛是由IT爱好者协会程序设计部负责
   
    链接：<https://www.luogu.com.cn/contest/36286>  
    邀请码：5wu6
+
+- **2nd Phase (第二期)**
+
+   链接：<https://www.luogu.com.cn/contest/37523>
+   邀请码：h9i5
