@@ -88,5 +88,5 @@ IT爱好者协会-程序设计周赛是由IT爱好者协会程序设计部负责
 
 - **2nd Phase (第二期)**
 
-   链接：<https://www.luogu.com.cn/contest/37523>
+   链接：<https://www.luogu.com.cn/contest/37523>  
    邀请码：h9i5
