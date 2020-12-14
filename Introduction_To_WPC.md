@@ -5,11 +5,11 @@
 <img src = "/src/ITEA.jpg"  width = "400"  height = "400" />
 </div>
 
-#### Internet Technology Enthusiasts Association
+### Internet Technology Enthusiasts Association
 
-#### Weekly Programming Contest
+### Weekly Programming Contest
 
-#### IT爱好者协会 - 程序设计周赛
+### IT爱好者协会 - 程序设计周赛
 
 ---
 
